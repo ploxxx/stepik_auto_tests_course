@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-# test_git
+# short description for test
