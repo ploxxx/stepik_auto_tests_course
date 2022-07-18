@@ -1,0 +1,41 @@
+[33mcommit a6370fcfaa7a835cb573e095584f08b142c161e4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vlad Zharkov <zharkov.kill@yandex.by>
+Date:   Mon Jul 18 12:13:11 2022 +0300
+
+    add new lesson files
+
+[33mcommit ce6ad7de266b4bcc91788b902e6ec4d4f2ff0c0c[m
+Author: Vlad Zharkov <zharkov.kill@yandex.by>
+Date:   Fri Jul 15 15:09:47 2022 +0300
+
+    delete file
+
+[33mcommit b129b1708aca82b9f15f72e77303cb2642f3ad47[m
+Author: Vlad Zharkov <zharkov.kill@yandex.by>
+Date:   Fri Jul 15 15:08:26 2022 +0300
+
+    add file in th folder
+
+[33mcommit 808263b396c9419f490bc93ede8a27222e33c5e4[m
+Author: Vlad Zharkov <zharkov.kill@yandex.by>
+Date:   Fri Jul 15 15:00:59 2022 +0300
+
+    update README
+
+[33mcommit fe95436a0d09cc94ee4135dc3cdbe5d3b3208854[m
+Author: Vlad Zharkov <zharkov.kill@yandex.by>
+Date:   Fri Jul 15 14:55:34 2022 +0300
+
+    add new file
+
+[33mcommit dc41ec66e194396fb1157da5ba735014a60a68b5[m
+Author: Vlad Zharkov <zharkov.kill@yandex.by>
+Date:   Fri Jul 15 14:46:41 2022 +0300
+
+    test git
+
+[33mcommit 793ef3e2a8f0a5ecfb23bc9666c0ec9cc05ddfdb[m
+Author: ploxxx <73112616+ploxxx@users.noreply.github.com>
+Date:   Fri Jul 15 14:28:58 2022 +0300
+
+    Initial commit
